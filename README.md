@@ -1,11 +1,11 @@
 # Sistemas_Eletrônicos_Digitais_e_Sistemas_Embarcados
-## *** SISTEMAS ELETRÔNICOS DIGITAIS E SISTEMAS EMBARCADOS (CH = 60 h) ***
+## ** SISTEMAS ELETRÔNICOS DIGITAIS E SISTEMAS EMBARCADOS (CH = 60 h) **
 
-## **OBJETIVOS: **
+## **OBJETIVOS:**
 
 Construção dos conceitos fundamentais em lógica digital embasado em sistemas digitais tanto combinacionais como sequenciais. Habilitar o desenvolvimento de análise e síntese de circuitos digitais e sistemas embarcados.
 
-## **EMENTA: **
+## **EMENTA:**
 
 Estudo das funções lógicas. Introdução às portas lógicas. Compreensão dos circuitos lógicos e suas aplicações. Introdução aos circuitos integrados. Aprofundamento no entendimento dos conversores analógico-digital e digital-analógico. Introdução aos sistemas embarcados e à arquitetura de microcontroladores em sistemas embarcados digitais. 
 
