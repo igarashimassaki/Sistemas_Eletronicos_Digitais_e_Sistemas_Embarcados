@@ -2,15 +2,13 @@
 <div align="center">
 # Sistemas_Eletrônicos_Digitais_e_Sistemas_Embarcados
 ## **SISTEMAS ELETRÔNICOS DIGITAIS E SISTEMAS EMBARCADOS (CH = 60 h)**
+# $\textcolor{darkblue}{Sistemas \ Eletrônicos \ Digitais \ e \ Sistemas \ EMabarcados \ (CH=6-h) \ }$
+### (e-mail: massaki.igarashi@gmail.com)
 </div>
 
 </div>
 <div align="justify">
 	
-# $\textcolor{darkblue}{Memorial \ Circunstanciado \ do \ prof. \ Massaki \ de \ O. \ Igarashi}$
-### (e-mail: massaki.igarashi@gmail.com)
-
-
 ### **OBJETIVOS:**
 
 Construção dos conceitos fundamentais em lógica digital embasado em sistemas digitais tanto combinacionais como sequenciais. Habilitar o desenvolvimento de análise e síntese de circuitos digitais e sistemas embarcados.
