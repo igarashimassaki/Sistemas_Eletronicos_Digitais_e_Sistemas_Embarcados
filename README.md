@@ -1,27 +1,27 @@
 # Sistemas_Eletrônicos_Digitais_e_Sistemas_Embarcados
-## ** SISTEMAS ELETRÔNICOS DIGITAIS E SISTEMAS EMBARCADOS (CH = 60 h) **
+## **SISTEMAS ELETRÔNICOS DIGITAIS E SISTEMAS EMBARCADOS (CH = 60 h)**
 
-## **OBJETIVOS:**
+### **OBJETIVOS:**
 
 Construção dos conceitos fundamentais em lógica digital embasado em sistemas digitais tanto combinacionais como sequenciais. Habilitar o desenvolvimento de análise e síntese de circuitos digitais e sistemas embarcados.
 
-## **EMENTA:**
+### **EMENTA:**
 
 Estudo das funções lógicas. Introdução às portas lógicas. Compreensão dos circuitos lógicos e suas aplicações. Introdução aos circuitos integrados. Aprofundamento no entendimento dos conversores analógico-digital e digital-analógico. Introdução aos sistemas embarcados e à arquitetura de microcontroladores em sistemas embarcados digitais. 
 
-## **METODOLOGIA: **
+### **METODOLOGIA:**
 
 Aulas expositivas, dialogadas e participativas, articuladas com exercícios, estudos de caso, simulações e práticas de laboratório. A Inteligência Artificial Generativa poderá ser utilizada como ferramenta de apoio à pesquisa, à programação, à elaboração de exercícios, à interpretação de erros e à documentação dos projetos. Seu uso deverá ser declarado, ético e crítico. Todo conteúdo, código ou circuito sugerido pela IA deverá ser compreendido pelo estudante e validado por cálculos, simulação ou testes experimentais.
  
-## **ATIVIDADES(EXTRA-CLASSE): **
+### **ATIVIDADES(EXTRA-CLASSE):**
 
 Pesquisa nos acervos bibliográficos, desenvolvimento de listas de exercícios e preparação de trabalhos.  Atividades em sala e laboratórios objetivando a montagem de protótipos simulados e experimentos relacionados à disciplina. 
 
-## **AVALIAÇÃO: **
+### **AVALIAÇÃO:**
 
 A nota semestral de eficiência é determinada por diversos instrumentos de avaliação distribuídos em três notas, N1, N2 e N3. Os instrumentos de avaliação adotados na disciplina são provas descritivas, exercícios avaliativos, práticas de laboratório, e atividades do conteúdo EaD). Desta forma, a nota final será obtida por: NF = 0,4 * N1 + 0,4 * N2 + 0,2 * ATIVIDADES EAD
 
-## **CONTEÚDO: **
+### **CONTEÚDO: **
 
 1. Fundamentos dos Sistemas Digitais 
 - 1.1 Sinais analógicos e digitais 
