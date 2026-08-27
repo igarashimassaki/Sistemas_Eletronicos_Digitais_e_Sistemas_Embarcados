@@ -31,7 +31,7 @@ Pesquisa nos acervos bibliográficos, desenvolvimento de listas de exercícios e
 
 A nota semestral de eficiência é determinada por diversos instrumentos de avaliação distribuídos em três notas, N1, N2 e N3. Os instrumentos de avaliação adotados na disciplina são provas descritivas, exercícios avaliativos, práticas de laboratório, e atividades do conteúdo EaD). Desta forma, a nota final será obtida por: NF = 0,4 * N1 + 0,4 * N2 + 0,2 * ATIVIDADES EAD
 
-### **CONTEÚDO: **
+### **CONTEÚDO:**
 
 1. Fundamentos dos Sistemas Digitais 
 - 1.1 Sinais analógicos e digitais 
@@ -68,7 +68,10 @@ A nota semestral de eficiência é determinada por diversos instrumentos de aval
 - 5.5 Acionamento de LEDs, relés e motores 
 - 5.6 Desenvolvimento, montagem e validação de aplicação embarcada 
 
-## **BIBLIOGRAFIA BÁSICA: **
+</div>
+
+<div align="left">	
+## **BIBLIOGRAFIA BÁSICA:**
 
 IDOETA, Ivan V.; CAPUANO, Francisco G. ELEMENTOS DE ELETRÔNICA DIGITAL 42ª edição. Editora Saraiva, 2019. E-book. ISBN 9788536530390. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788536530390/.A  
 
@@ -77,7 +80,7 @@ LOURENÇO, Antônio Carlos de; CRUZ, Eduardo César A.; FERREIRA, Sabrina R.; et
 FLOYD, Thomas. Sistemas digitais: Grupo A, 2011. E-book. ISBN 9788577801077. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788577801077/. 
 
 
-## **BIBLIOGRAFIA COMPLEMENTAR: **
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
 SOUZA, Diogo B C.; SANTOS, Sidney C B.; MARTON, Italo L A.; et al. Sistemas digitais: Grupo A, E-book.ISBN9788595025752.Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595025752/.  
 
