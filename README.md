@@ -2,8 +2,9 @@
 <div align="center">
 # Sistemas_Eletrônicos_Digitais_e_Sistemas_Embarcados
 ## **SISTEMAS ELETRÔNICOS DIGITAIS E SISTEMAS EMBARCADOS (CH = 60 h)**
+	
 # $\textcolor{darkblue}{Sistemas \ Eletrônicos \ Digitais \ e \ Sistemas \ EMabarcados \ (CH=6-h) \ }$
-### (e-mail: massaki.igarashi@gmail.com)
+
 </div>
 
 </div>
