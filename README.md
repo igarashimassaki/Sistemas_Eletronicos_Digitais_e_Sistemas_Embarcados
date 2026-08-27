@@ -3,6 +3,8 @@
 
 # $\textcolor{darkblue}{Sistemas \ Eletrônicos \ Digitais \ e \ Sistemas \ Embarcados \ (CH=60h)}$
 
+[QRcode_GitHub](https://github.com/igarashimassaki/Sistemas_Eletronicos_Digitais_e_Sistemas_Embarcados/blob/main/QRcode%20GitHub.png)
+
 </div>
 
 </div>
