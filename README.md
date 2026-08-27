@@ -1,5 +1,5 @@
 # Sistemas_Eletrônicos_Digitais_e_Sistemas_Embarcados
-## ****SISTEMAS ELETRÔNICOS DIGITAIS E SISTEMAS EMBARCADOS (CH = 60 h) ***
+## *** SISTEMAS ELETRÔNICOS DIGITAIS E SISTEMAS EMBARCADOS (CH = 60 h) ***
 
 ## **OBJETIVOS: **
 
