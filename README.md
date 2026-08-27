@@ -69,8 +69,8 @@ A nota semestral de eficiência é determinada por diversos instrumentos de aval
 - 5.6 Desenvolvimento, montagem e validação de aplicação embarcada 
 
 </div>
-
 <div align="left">	
+	
 ## **BIBLIOGRAFIA BÁSICA:**
 
 IDOETA, Ivan V.; CAPUANO, Francisco G. ELEMENTOS DE ELETRÔNICA DIGITAL 42ª edição. Editora Saraiva, 2019. E-book. ISBN 9788536530390. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788536530390/.A  
