@@ -1,5 +1,15 @@
+</div>
+<div align="center">
 # Sistemas_Eletrônicos_Digitais_e_Sistemas_Embarcados
 ## **SISTEMAS ELETRÔNICOS DIGITAIS E SISTEMAS EMBARCADOS (CH = 60 h)**
+</div>
+
+</div>
+<div align="justify">
+	
+# $\textcolor{darkblue}{Memorial \ Circunstanciado \ do \ prof. \ Massaki \ de \ O. \ Igarashi}$
+### (e-mail: massaki.igarashi@gmail.com)
+
 
 ### **OBJETIVOS:**
 
@@ -78,3 +88,5 @@ VAHID, Frank. Sistemas digitais: projeto, otimização e HDLs: Grupo A, 2008. E-
 CRUZ, Eduardo; GAUDINO, Enzo; Domingos; et al. Sistemas Digitais Reconfiguráveis: FPGA e VHDL: Editora Alta Books, 2022. E-book. ISBN 9786555208542. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555208542/.  
 
 SEDRA, Adel S.; SMITH, Kenneth C.; Tony Chan Carusone; et al. Circuitos Microeletrônicos. Grupo GEN, 2023. E-book. ISBN 9788521638391. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521638391/.
+
+</div>
